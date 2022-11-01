@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.right{
+    width: 25%;
+}
+.easy{
+    display: flex;
+}
+.easy h3{
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.easy p{
+    padding-top: 22px;
+    padding-left: 90px;
+    color: blue;
+}
+.box{
+    display: flex;
+}
+.box-image{
+    padding: 20px;
+}
+.box-image img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.box-text h2{
+    font-size: 20px;
+    padding-top: 20px;
+}
+.box-text p i{
+    padding-right: 10px;
+}
+.btn button{
+    width: 60px;
+    height: 25px;
+    background-color: blue;
+    color: beige;
+    border: none;
+    border-radius: 10px;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+
+.contact{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.best{
+    display: flex;
+}
+.best img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.best h3{
+    padding-top: 30px;
+    padding-left: 15px;
+}
